@@ -1,0 +1,7 @@
+C:\Users\Gaben\source\repos\motorpool\motorpool\bin\Debug\motorpool.exe.config
+C:\Users\Gaben\source\repos\motorpool\motorpool\bin\Debug\motorpool.exe
+C:\Users\Gaben\source\repos\motorpool\motorpool\bin\Debug\motorpool.pdb
+C:\Users\Gaben\source\repos\motorpool\motorpool\obj\Debug\motorpool.csprojAssemblyReference.cache
+C:\Users\Gaben\source\repos\motorpool\motorpool\obj\Debug\motorpool.csproj.CoreCompileInputs.cache
+C:\Users\Gaben\source\repos\motorpool\motorpool\obj\Debug\motorpool.exe
+C:\Users\Gaben\source\repos\motorpool\motorpool\obj\Debug\motorpool.pdb

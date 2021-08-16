@@ -1,0 +1,13 @@
+Errors while processing 
+C:\Users\Gaben\source\repos\motorpool\motorpool\bin\Debug\clients.csv
+on
+2021. 08. 16. 21:12:59:
+
+
+Line #1: License plate format is invalid: "Rendszám";
+Line #1: Front left pressure invalid: "Bal első kerék nyomása";
+Line #1: Front right pressure invalid: "Jobb első kerék nyomása";
+Line #1: Rear left pressure invalid: "Bal hátsó kerék nyomása";
+Line #1: Rear right pressure invalid: "Jobb hátsó kerék nyomása";
+*** Line #1 has been omitted! ***
+
